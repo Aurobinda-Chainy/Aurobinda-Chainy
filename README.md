@@ -72,12 +72,6 @@ A personal portfolio showcasing projects, skills, and experience.
 
 ---
 
-## 📈 GitHub Stats
-
-(Add GitHub Stats here later)
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced React Patterns
